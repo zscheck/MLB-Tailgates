@@ -1,0 +1,3 @@
+MLB Tailgates is a webpage app that allows you to select the team whose home stadium you wish to visit.  It then takes you to a page where it displays the top 10 sports bars located within 2000 meters of the stadium using the yelp-fusion api under the best_match parameter.  The app also displays google maps for the location of the stadium.  MLB Tailgates was written using react.  
+
+The webpage can be seen on localhost:3000 running 'npm start' in the terminal.  In a separate terminal, you would need to run 'node yelp-server/' so yelp JSON can be pulled off of localhost:4080.

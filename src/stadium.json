@@ -1,0 +1,300 @@
+[{
+    "id": "1",
+    "name": "Baltimore Orioles",
+    "stadium": "Oriole Park at Camden Yards",
+    "address": "333 W Camden St",
+    "city": "Baltimore, MD",
+    "zip": "21201",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Baltimore_Orioles_logo.svg/200px-Baltimore_Orioles_logo.svg.png",
+    "latLng": [39.283889, -76.621667]
+},
+{
+    "id": "2",
+    "name": "Chicago White Sox",
+    "stadium": "Guaranteed Rate Field",
+    "address": "333 W 35th St",
+    "city": "Chicago, IL",
+    "zip": "60616",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/181px-Chicago_White_Sox.svg.png",
+    "latLng": [41.83, -87.633889]
+},
+{
+    "id": "3",
+    "name": "Houston Astros",
+    "stadium": "Minute Maid Park",
+    "address": "501 Crawford St",
+    "city": "Houston, TX",
+    "zip": "77002",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houston-Astros-Logo.svg/200px-Houston-Astros-Logo.svg.png",
+    "latLng": [29.756944, -95.355556]
+},
+{
+    "id": "4",
+    "name": "Atlanta Braves",
+    "stadium": "SunTrust Park",
+    "address": "755 Battery Ave SE",
+    "city": "Atlanta, GA",
+    "zip": "30339",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Atlanta_Braves.svg/181px-Atlanta_Braves.svg.png",
+    "latLng": [33.89, -84.468]
+},
+{
+    "id": "5",
+    "name": "Chicago Cubs",
+    "stadium": "Wrigley Field",
+    "address": "1060 W Addison St",
+    "city": "Chicago, IL",
+    "zip": "60613",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/127px-Chicago_Cubs_logo.svg.png",
+    "latLng": [41.948333, -87.655556]
+},
+{
+    "id": "6",
+    "name": "Arizona Diamondbacks",
+    "stadium": "Chase Field",
+    "address": "401 E Jefferson St",
+    "city": "Phoenix, AZ",
+    "zip": "85004",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Arizona_Diamondbacks_logo.svg/184px-Arizona_Diamondbacks_logo.svg.png",
+    "latLng": [33.445278, -112.066944]
+},
+{
+    "id": "7",
+    "name": "Boston Red Sox",
+    "stadium": "Fenway Park",
+    "address": "4 Yawkey Way",
+    "city": "Boston, MA",
+    "zip": "02215",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/359px-RedSoxPrimary_HangingSocks.svg.png",
+    "latLng": [42.346389, -71.0975]
+},
+{
+    "id": "8",
+    "name": "Cleveland Indians",
+    "stadium": "Progressive Field",
+    "address": "2401 Ontario St",
+    "city": "Cleveland, OH",
+    "zip": "44115",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Indians_Logo_-_2014_Season.svg/136px-Indians_Logo_-_2014_Season.svg.png",
+    "latLng": [41.495833, -81.685278]
+},
+{
+    "id": "9",
+    "name": "Los Angeles Angels of Anaheim",
+    "stadium": "Angel Stadium of Anaheim",
+    "address": "2000 E Gene Autry Way",
+    "city": "Anaheim, CA",
+    "zip": "92806",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/187px-Los_Angeles_Angels_of_Anaheim.svg.png",
+    "latLng": [33.800278, -117.882778]
+},
+{
+    "id": "10",
+    "name": "Miami Marlins",
+    "stadium": "Marlins Park",
+    "address": "501 Marlins Way",
+    "city": "Miami, FL",
+    "zip": "33125",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Miami_Marlins_logo.svg/149px-Miami_Marlins_logo.svg.png",
+    "latLng": [25.778056, -80.219722]
+},
+{
+    "id": "11",
+    "name": "Cincinatti Reds",
+    "stadium": "Great American Ball Park",
+    "address": "100 Joe Nuxhall Way",
+    "city": "Cincinnati, OH",
+    "zip": "45202",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/176px-Cincinnati_Reds_Logo.svg.png",
+    "latLng": [39.0975, -84.506667]
+},
+{
+    "id": "12",
+    "name": "Colorado Rockies",
+    "stadium": "Coors Field",
+    "address": "2001 Blake St",
+    "city": "Denver, CO",
+    "zip": "80205",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/167px-Colorado_Rockies_logo.svg.png",
+    "latLng": [39.756111, -104.994167]
+},
+{
+    "id": "13",
+    "name": "New York Yankees",
+    "stadium": "Yankee Stadium",
+    "address": "1 E 161st St",
+    "city": "Bronx, NY",
+    "zip": "10451",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/302px-NewYorkYankees_PrimaryLogo.svg.png",
+    "latLng": [40.829167, -73.926389]
+},
+{
+    "id": "14",
+    "name": "Detroit Tigers",
+    "stadium": "Comerica Park",
+    "address": "2100 Woodward Ave",
+    "city": "Detroit, MI",
+    "zip": "48201",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/132px-Detroit_Tigers_logo.svg.png",
+    "latLng": [42.339167, -83.048611]
+},
+{
+    "id": "15",
+    "name": "Oakland Athletics",
+    "stadium": "O.co Coliseum",
+    "address": "7000 Coliseum Way",
+    "city": "Oakland, CA",
+    "zip": "94621",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/150px-Oakland_A%27s_logo.svg.png",
+    "latLng": [37.751667, -122.200556]
+},
+{
+    "id": "16",
+    "name": "New York Mets",
+    "stadium": "Citi Field",
+    "address": "12301 Roosevelt Ave",
+    "city": "Flushing, NY",
+    "zip": "11368",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/150px-New_York_Mets.svg.png",
+    "latLng": [40.756944, -73.845833]
+},
+{
+    "id": "17",
+    "name": "Milwaukee Brewers",
+    "stadium": "Miller Park",
+    "address": "1 Brewers Way",
+    "city": "Milwaukee, WI",
+    "zip": "53214",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Milwaukee_Brewers_Logo.svg/185px-Milwaukee_Brewers_Logo.svg.png",
+    "latLng": [43.028333, -87.971111]
+},
+{
+    "id": "18",
+    "name": "Los Angeles Dodgers",
+    "stadium": "Dodger Stadium",
+    "address": "1000 Elysian Park Ave",
+    "city": "Los Angeles, CA",
+    "zip": "90012",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Los_Angeles_Dodgers_logo.svg/141px-Los_Angeles_Dodgers_logo.svg.png",
+    "latLng": [34.073611, -118.24]
+},
+{
+    "id": "19",
+    "name": "Tampa Bay Rays",
+    "stadium": "Tropicana Field",
+    "address": "1 Tropicana Dr",
+    "city": "Saint Petersburg, FL",
+    "zip": "33705",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Tampa_Bay_Rays.svg/200px-Tampa_Bay_Rays.svg.png",
+    "latLng": [27.768333, -82.653333]
+},
+{
+    "id": "20",
+    "name": "Kansas City Royals",
+    "stadium": "Kauffman Stadium",
+    "address": "1 Royal Way",
+    "city": "Kansas City, MO",
+    "zip": "64129",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/128px-Kansas_City_Royals.svg.png",
+    "latLng": [39.051389, -94.480556]
+},
+{
+    "id": "21",
+    "name": "Seatle Mariners",
+    "stadium": "Safeco Field",
+    "address": "1250 1st Ave S",
+    "city": "Seattle, WA",
+    "zip": "98134",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Seattle_Mariners_logo.svg/201px-Seattle_Mariners_logo.svg.png",
+    "latLng": [47.591389, -122.3325]
+},
+{
+    "id": "22",
+    "name": "Philadelphia Phillies",
+    "stadium": "Citizens Bank Park",
+    "address": "1 Citizens Bank Way",
+    "city": "Philadelphia, PA",
+    "zip": "19148",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Philadelphia_Phillies.svg/150px-Philadelphia_Phillies.svg.png",
+    "latLng": [39.905833, -75.166389]
+},
+{
+    "id": "23",
+    "name": "Pittsburgh Pirates",
+    "stadium": "PNC Park",
+    "address": "115 Federal St",
+    "city": "Pittsburgh, PA",
+    "zip": "15212",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/87px-Pittsburgh_Pirates_logo_2014.svg.png",
+    "latLng": [40.446944, -80.005833]
+},
+{
+    "id": "24",
+    "name": "San Diego Padres",
+    "stadium": "Petco Park",
+    "address": "100 Park Blvd",
+    "city": "San Diego, CA",
+    "zip": "92101",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/SDPadres_logo.svg/148px-SDPadres_logo.svg.png",
+    "latLng": [32.707222, -117.156667]
+},
+{
+    "id": "25",
+    "name": "Toronto Blue Jays",
+    "stadium": "Rogers Centre",
+    "address": "1 Blue Jays Way",
+    "city": "Toronto, ON, Canada",
+    "zip": "M5V 1J1",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Toronto_Blue_Jays_logo.svg/197px-Toronto_Blue_Jays_logo.svg.png",
+    "latLng": [43.641389, -79.389167]
+},
+{
+    "id": "26",
+    "name": "Minnestoa Twins",
+    "stadium": "Target Field",
+    "address": "1 Twins Way",
+    "city": "Minneapolis, MN",
+    "zip": "55403",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Minnesota_Twins_logo.svg/150px-Minnesota_Twins_logo.svg.png",
+    "latLng": [44.981667, -93.278333]
+},
+{
+    "id": "27",
+    "name": "Texas Rangers",
+    "stadium": "Globe Life Park in Arlingron",
+    "address": "1000 Ballpark Way",
+    "city": "Arlington, TX",
+    "zip": "76011",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/200px-Texas_Rangers.svg.png",
+    "latLng": [32.751389, -97.082778]
+},
+{
+    "id": "28",
+    "name": "Washington Nationals",
+    "stadium": "Nationals Park",
+    "address": "1500 S Capitol St SE",
+    "city": "Washington, D.C",
+    "zip": "20003",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Washington_Nationals_logo.svg/150px-Washington_Nationals_logo.svg.png",
+    "latLng": [38.872778, -77.0075]
+},
+{
+    "id": "29",
+    "name": "St. Louis Cardinals",
+    "stadium": "Busch Stadium",
+    "address": "700 Clark Ave",
+    "city": "St Louis, MO",
+    "zip": "63102",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/150px-St._Louis_Cardinals_logo.svg.png",
+    "latLng": [38.6225, -90.193056]
+},
+{
+    "id": "30",
+    "name": "San Francisco Giants",
+    "stadium": "AT&T Park",
+    "address": "24 Willie Mays Plz",
+    "city": "San Francisco, CA",
+    "zip": "94107",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/300px-San_Francisco_Giants_Logo.svg.png",
+    "latLng": [37.778611, -122.389167]
+}]
