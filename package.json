@@ -14,7 +14,7 @@
     "yelpv3": "^1.2.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start && node yelp-server/",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
