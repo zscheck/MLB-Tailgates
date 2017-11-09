@@ -8,6 +8,7 @@
 
 # production
 /build
+/yelp-server
 
 # misc
 .DS_Store
