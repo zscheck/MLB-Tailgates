@@ -42,8 +42,8 @@ class App extends Component {
                />) : (
           <div>
             <div className='header'>
-              <h1 className="display-3 text-white"><strong>MLB Tailgates</strong></h1>
-              <p className="lead text-white">
+              <h1 className="display-3 text-white fuzzy"><strong>MLB Tailgates</strong></h1>
+              <p className="lead text-white fuzzy">
                 <strong>Select the team's stadium you wish to visit!</strong>
               </p>
             </div>

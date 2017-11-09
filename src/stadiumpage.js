@@ -33,7 +33,7 @@ export class StadiumPage extends React.Component {
     render() {
         return(
             <div className='container-fluid'>
-                <div className='header'>
+                <div className='header fuzzy'>
                     <h1 className='display-3 text-white'>{ this.state.team.team.stadium }</h1>
                     <button type='button' className='btn btn-primary' onClick={ this.backToHomepage }>Home</button>
                 </div>
