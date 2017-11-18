@@ -23,20 +23,19 @@ export class YelpBars extends React.Component {
           src={this.props.bar.image_url} 
           alt={this.props.bar.name}
         />
-          <div className='float-left col-6'>
-            <h5 className='pt-1 float-left'>
+          <div className='col-6 left'>
+            <h5 className='pt-1'>
                 { this.props.id +'* '}
                 <a href={this.props.bar.url} target='_blank'>
                     { this.props.bar.name }
                 </a>
             </h5>
-            <br />
-            <p className='float-left' >
+            <p className='left' >
                 Rating: <span>{stars}</span>, {this.props.bar.review_count} reviews<br />
-                {this.props.bar.price}
+                Price: {' '+this.props.bar.price}
             </p>
           </div>
-          <div className='float-right col-3'>
+          <div className='right col-3'>
               <p>
                   {this.props.bar.location.address1}<br />
                   {this.props.bar.location.zip_code}<br />
