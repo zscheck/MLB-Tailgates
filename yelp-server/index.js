@@ -5,9 +5,10 @@ const clientSecret= 'sWZvSF14sTKzkCedorTmjhEy5yrOlPMlhpizOvcTBHeMmVN4MXun4TmaP4O
 const express = require('express');
 const cors = require('cors');
 const app = express();
- 
+
 app.use(cors());
- 
+app.use(express.static('build'));
+
 app.get('/api/yelp/latitude/:latitude/longitude/:longitude', (req, res) => {
   yelp.accessToken(clientId, clientSecret).then(response => {
     const client = yelp.client(response.jsonBody.access_token);
@@ -23,8 +24,13 @@ app.get('/api/yelp/latitude/:latitude/longitude/:longitude', (req, res) => {
   }).catch(e => {
     console.log(e);
   });
-})
- 
-app.listen(4080, function () {
-  console.log('CORS-enabled web server listening on port 4080')
+});
+
+// app.use(express.static('src'));
+// app.use(express.static('public'));
+
+const PORT = process.env.PORT || 4080; 
+
+app.listen(PORT, function () {
+  console.log(`CORS-enabled web server listening on http://localhost:${PORT}`)
 });
