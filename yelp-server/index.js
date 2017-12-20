@@ -7,7 +7,6 @@ const cors = require('cors');
 const app = express();
 
 app.use(cors());
-app.use(express.static('build'));
 
 app.get('/api/yelp/latitude/:latitude/longitude/:longitude', (req, res) => {
   yelp.accessToken(clientId, clientSecret).then(response => {
@@ -25,6 +24,8 @@ app.get('/api/yelp/latitude/:latitude/longitude/:longitude', (req, res) => {
     console.log(e);
   });
 });
+
+app.use(express.static('build'));
 
 // app.use(express.static('src'));
 // app.use(express.static('public'));
