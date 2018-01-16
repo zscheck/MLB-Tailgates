@@ -39,7 +39,7 @@ export class StadiumPage extends React.Component {
                 </div>
                 <div className='row'>
                     <div className='col-8'>
-                        {(this.state.yelpResults.length ===0)? <div />: (
+                        {(this.state.yelpResults.length ===0)? <div><i class="fas fa-sync fa-spin"></i></div>: (
                         this.state.yelpResults.map((bar, index) =>(
                         <YelpBars
                           bar= {bar}
