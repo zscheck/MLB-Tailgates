@@ -47,7 +47,7 @@ class App extends Component {
                 <strong>Select the team's stadium you wish to visit!</strong>
               </p>
             </div>
-            <div className='row px-3'>
+            <div className='row px-3 justify-content-center'>
                 {(this.state.venues.map(venue => (
                   <AllTeams
                     onTeam={ this.teamHandler }

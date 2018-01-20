@@ -11,7 +11,7 @@ export class AllTeams extends React.Component {
     }
     render() {
         return (
-            <div className='col-2 text-center my-2 team-button' name={this.props.name} onClick={this.handleClick}>
+            <div className='col-xs-5 col-sm-5 col-md-4 col-lg-2 text-center my-2 team-button' name={this.props.name} onClick={this.handleClick}>
                <img className='img-thumbnail' alt={this.props.name} src={this.props.src} />
             </div>
         );
